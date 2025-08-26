@@ -1,0 +1,10 @@
+Background Color: #26272C
+Accent Yellow: #E15757
+
+Background Public Link: https://cloud.isranicloud.com/public.php/dav/files/g5siA8Ljp3p7kfg/Nextcloud.jpg
+
+Logos
+https://cloud.isranicloud.com/public.php/dav/files/g5siA8Ljp3p7kfg/noBgBlack.png
+https://cloud.isranicloud.com/public.php/dav/files/g5siA8Ljp3p7kfg/noBgColor.png
+https://cloud.isranicloud.com/public.php/dav/files/g5siA8Ljp3p7kfg/noBgWhite.png
+https://cloud.isranicloud.com/public.php/dav/files/g5siA8Ljp3p7kfg/whiteBgColor.png
