@@ -1,5 +1,5 @@
 Background Color: #26272C
-Accent Yellow: #E15757
+Accent Red: #E15757
 
 Background Public Link: https://cloud.isranicloud.com/public.php/dav/files/g5siA8Ljp3p7kfg/Nextcloud.jpg
 
